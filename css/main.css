@@ -1,0 +1,18 @@
+html {
+    padding: 60px;
+    font-size: 22px;
+}
+body {
+    background-color: #333;
+    color: whitesmoke;
+}
+a,dd {
+    color: rgb(149, 220, 17);
+}
+a:hover,ol {
+    color: rgb(229, 233, 11);
+}
+a:active, dt {
+    color: rgb(10, 166, 218);
+}
+
