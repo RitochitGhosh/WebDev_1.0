@@ -1,13 +1,16 @@
 {
-  "scripts" : {
-    "start" : "vite"
+  "name": "webdev_1.0",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000W\u0000e\u0000b\u0000D\u0000e\u0000v\u0000_\u00001\u0000.\u00000\u0000\r\u0000 \u0000",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "start": "vite"
   },
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.33",
     "tailwindcss": "^3.4.1"
-  },
-  "dependencies": {
-    "vite": "^5.0.11"
   }
 }
