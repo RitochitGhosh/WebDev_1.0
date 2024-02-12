@@ -1,0 +1,25 @@
+.heading{
+    text-align: center;
+  }
+  .flex{
+    display: flex;
+  }
+  .flex-col{
+    flex-direction: column;
+  }
+  .gap-10{
+    gap: 10px;
+  }
+  .mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .items-center{
+    align-items: center;
+  }
+  .margin{
+    margin: 70px;
+  }
+  .text-white{
+    color:white;
+  }
